@@ -8,7 +8,7 @@
 Make sure you have downloaded the following files from IBM Fix Central
 - IBM LTE (eg apic-lte-2018.4.1-15)
 - API Designer & CLI (eg toolkit-loopback-designer-mac_lts_v2018.4.1.6-ifix3.0)
-- Clone the GitHub repository at [here](https://github.com/ozairs/apiconnect-policies.git)
+- Clone the GitHub repository at [here](https://github.com/ibm-apiconnect/Labs.git)
 
 Note: The above file names will likely change during each new release
 
