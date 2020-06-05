@@ -1,0 +1,7 @@
+.DS_Store
+_archive/*
+gw-extension.zip
+udp-aaa/example/*
+udp-aaa/kerberos-generate/examples/*
+udp-managed-obj/database/ibmcloud/*
+udp-managed-obj/mq/ibmcloud/*
